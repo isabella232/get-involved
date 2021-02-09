@@ -89,6 +89,13 @@
         
         &lt;p&gt;Docker Community Forum is a public forum for users to discuss questions and explore current design patterns and best practices about Docker and related projects in the Docker Ecosystem.&lt;/p&gt;
 &lt;p&gt;To participate, just &lt;a href=&#34;https://forums.docker.com/&#34;&gt;log in&lt;/a&gt; with your Docker Hub account. Make sure to also review our Community Guidelines, Terms of Service, and Privacy Policy.&lt;/p&gt;
+&lt;h2 id=&#34;useful-links&#34;&gt;Useful Links:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://forums.docker.com/guidelines&#34;&gt;Community Forums Guidelines&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.docker.com/legal/docker-privacy-policy&#34;&gt;Privacy Policy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.docker.com/legal/docker-terms-service&#34;&gt;Terms of Service&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/docker&#34;&gt;Docker Ecosystem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>
