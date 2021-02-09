@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> – Kubernetes</title>
-    <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/kube101/</link>
+    <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/</link>
     <description>Recent content in Kubernetes on </description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/kube101/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Your Event Checklist</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/kube101/checklists/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/checklists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/kube101/checklists/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/checklists/</guid>
       <description>
         
         
@@ -336,10 +336,10 @@ Note: The RSVP limits you set in Bevy do not translate to meetup. The best way t
     
     <item>
       <title>Docs: Recommended Agenda</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/kube101/agenda/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/agenda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/kube101/agenda/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/agenda/</guid>
       <description>
         
         
@@ -349,10 +349,10 @@ Note: The RSVP limits you set in Bevy do not translate to meetup. The best way t
     
     <item>
       <title>Docs: Deploying Your First Nginx Pod</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/kube101/pods101/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/pods101/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/kube101/pods101/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/pods101/</guid>
       <description>
         
         
@@ -836,10 +836,10 @@ Wed Jan  8 08:59:16 UTC 2020
     
     <item>
       <title>Docs: Deploying Your First Kubernetes Service</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/kube101/service101/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/service101/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/kube101/service101/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/service101/</guid>
       <description>
         
         
@@ -1095,10 +1095,10 @@ spec:
     
     <item>
       <title>Docs: Deploying Your First Nginx Deployment</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/kube101/deployment101/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/deployment101/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/kube101/deployment101/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/deployment101/</guid>
       <description>
         
         
@@ -1558,10 +1558,10 @@ $ kubectl delete deployment nginx-deployment
     
     <item>
       <title>Docs: Deploying Your First DaemonSet</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/kube101/daemonset101/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/daemonset101/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/kube101/daemonset101/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/daemonset101/</guid>
       <description>
         
         
@@ -1729,10 +1729,10 @@ node2   Ready    &amp;lt;none&amp;gt;   17m   v1.18.0
     
     <item>
       <title>Docs: Deploying Your First Nginx ReplicaSet</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/kube101/replicaset101/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/replicaset101/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/kube101/replicaset101/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/replicaset101/</guid>
       <description>
         
         
@@ -1957,10 +1957,10 @@ web-kc4r9   1/1 	Running         	0      	24s
     
     <item>
       <title>Docs: Understand Kubernetes Scheduling</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/kube101/scheduler101/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/scheduler101/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/kube101/scheduler101/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/scheduler101/</guid>
       <description>
         
         
@@ -2592,10 +2592,10 @@ Events:
     
     <item>
       <title>Docs: Deploying Your First Ingress Deployment</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/kube101/ingress101/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/ingress101/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/kube101/ingress101/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/ingress101/</guid>
       <description>
         
         

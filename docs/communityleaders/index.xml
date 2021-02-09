@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> – Community Leaders Program</title>
-    <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/</link>
+    <link>https://docker.github.io/get-involved/docs/communityleaders/</link>
     <description>Recent content in Community Leaders Program on </description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://docker.github.io/get-involved/docs/communityleaders/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Projects</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/projects/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/projects/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/projects/</guid>
       <description>
         
         
@@ -30,10 +30,10 @@
     
     <item>
       <title>Docs: Resources</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/resources/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/resources/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/resources/</guid>
       <description>
         
         
@@ -43,10 +43,10 @@
     
     <item>
       <title>Docs: Event Handbooks</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/</guid>
       <description>
         
         

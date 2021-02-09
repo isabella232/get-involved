@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> – Event Handbooks</title>
-    <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/</link>
+    <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/</link>
     <description>Recent content in Event Handbooks on </description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Docker for Beginners</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/docker101/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/docker101/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/docker101/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/docker101/</guid>
       <description>
         
         
@@ -28,10 +28,10 @@
     
     <item>
       <title>Docs: NodeJS </title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/nodejs/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/nodejs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/nodejs/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/nodejs/</guid>
       <description>
         
         
@@ -42,10 +42,10 @@
     
     <item>
       <title>Docs: Docker for Intermediate</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/docker201/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/docker201/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/docker201/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/docker201/</guid>
       <description>
         
         
@@ -56,10 +56,10 @@
     
     <item>
       <title>Docs: Docker for Advanced </title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/docker301/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/docker301/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/docker301/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/docker301/</guid>
       <description>
         
         
@@ -70,10 +70,10 @@
     
     <item>
       <title>Docs: Java</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/java/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/java/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/java/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/java/</guid>
       <description>
         
         
@@ -83,10 +83,10 @@
     
     <item>
       <title>Docs: Kubernetes</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/kube101/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/kube101/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/</guid>
       <description>
         
         
@@ -97,10 +97,10 @@
     
     <item>
       <title>Docs: GoLang</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/go/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/go/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/go/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/go/</guid>
       <description>
         
         
@@ -110,10 +110,10 @@
     
     <item>
       <title>Docs: Rust</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/rust/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/rust/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/rust/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/rust/</guid>
       <description>
         
         

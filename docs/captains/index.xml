@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> – Docker Captains</title>
-    <link>https://docker-community-leaders.github.io/dockercommunity/docs/captains/</link>
+    <link>https://docker.github.io/get-involved/docs/captains/</link>
     <description>Recent content in Docker Captains on </description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://docker-community-leaders.github.io/dockercommunity/docs/captains/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://docker.github.io/get-involved/docs/captains/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Docs: Projects</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/captains/projects/</link>
+      <link>https://docker.github.io/get-involved/docs/captains/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/captains/projects/</guid>
+      <guid>https://docker.github.io/get-involved/docs/captains/projects/</guid>
       <description>
         
         
@@ -59,10 +59,10 @@ project for Node.js using Docker, Compose, and many best practices for local dev
     
     <item>
       <title>Docs: Resources</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/captains/resources/</link>
+      <link>https://docker.github.io/get-involved/docs/captains/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/captains/resources/</guid>
+      <guid>https://docker.github.io/get-involved/docs/captains/resources/</guid>
       <description>
         
         
@@ -84,10 +84,10 @@ project for Node.js using Docker, Compose, and many best practices for local dev
     
     <item>
       <title>Docs: NewsFeed</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/captains/newsfeed/</link>
+      <link>https://docker.github.io/get-involved/docs/captains/newsfeed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/captains/newsfeed/</guid>
+      <guid>https://docker.github.io/get-involved/docs/captains/newsfeed/</guid>
       <description>
         
         
@@ -99,10 +99,10 @@ project for Node.js using Docker, Compose, and many best practices for local dev
     
     <item>
       <title>Docs: Blogs &amp; Twitter</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/captains/twitter/</link>
+      <link>https://docker.github.io/get-involved/docs/captains/twitter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/captains/twitter/</guid>
+      <guid>https://docker.github.io/get-involved/docs/captains/twitter/</guid>
       <description>
         
         

@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> – Resources</title>
-    <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/resources/</link>
+    <link>https://docker.github.io/get-involved/docs/communityleaders/resources/</link>
     <description>Recent content in Resources on </description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/resources/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://docker.github.io/get-involved/docs/communityleaders/resources/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Community Leaders Guidelines</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/resources/guidelines/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/resources/guidelines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/resources/guidelines/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/resources/guidelines/</guid>
       <description>
         
         
@@ -62,10 +62,10 @@
     
     <item>
       <title>Docs: Quickstart Your Own Meetup Chapter</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/resources/chapter/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/resources/chapter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/resources/chapter/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/resources/chapter/</guid>
       <description>
         
         
@@ -112,10 +112,10 @@ Look for potential speakers living in your city&lt;/p&gt;
     
     <item>
       <title>Docs: Mobilize</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/resources/mobilize/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/resources/mobilize/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/resources/mobilize/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/resources/mobilize/</guid>
       <description>
         
         
@@ -138,10 +138,10 @@ Look for potential speakers living in your city&lt;/p&gt;
     
     <item>
       <title>Docs: Conduct a Virtual Meetup</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/resources/conduct-a-virtual-meetup/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/resources/conduct-a-virtual-meetup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/resources/conduct-a-virtual-meetup/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/resources/conduct-a-virtual-meetup/</guid>
       <description>
         
         
@@ -303,10 +303,10 @@ Get the latest Docker news straight to your inbox! This weekly newsletter highli
     
     <item>
       <title>Docs: Speaker Guidelines</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/resources/speakers/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/resources/speakers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/resources/speakers/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/resources/speakers/</guid>
       <description>
         
         

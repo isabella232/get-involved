@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> – Java</title>
-    <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/java/</link>
+    <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/java/</link>
     <description>Recent content in Java on </description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/java/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/java/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Event Checklist</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/java/checklists/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/java/checklists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/java/checklists/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/java/checklists/</guid>
       <description>
         
         
@@ -335,10 +335,10 @@ Note: The RSVP limits you set in Bevy do not translate to meetup. The best way t
     
     <item>
       <title>Docs: Recommended Agenda</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/java/agenda/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/java/agenda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/java/agenda/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/java/agenda/</guid>
       <description>
         
         
@@ -402,10 +402,10 @@ Note: The RSVP limits you set in Bevy do not translate to meetup. The best way t
     
     <item>
       <title>Docs: Pre-requisite</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/java/prerequisite/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/java/prerequisite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/java/prerequisite/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/java/prerequisite/</guid>
       <description>
         
         
@@ -525,10 +525,10 @@ Install them only if you plan to attempt them.&lt;/p&gt;
     
     <item>
       <title>Docs: Basics of Docker</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/java/basics-of-docker/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/java/basics-of-docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/java/basics-of-docker/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/java/basics-of-docker/</guid>
       <description>
         
         
@@ -647,10 +647,10 @@ ajeetraina@Ajeets-MacBook-Pro realtime-sensor-jetson %
     
     <item>
       <title>Docs: Building and Running a Docker Container</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/java/building/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/java/building/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/java/building/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/java/building/</guid>
       <description>
         
         
@@ -1404,10 +1404,10 @@ crafted to produce a minimal running OS image.&lt;/p&gt;
     
     <item>
       <title>Docs: Multi-Container Application using Docker Compose</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/java/compose/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/java/compose/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/java/compose/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/java/compose/</guid>
       <description>
         
         
@@ -1665,10 +1665,10 @@ Removing network javaee_default
     
     <item>
       <title>Docs: Deploy Application using Docker Swarm Mode</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/java/swarm/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/java/swarm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/java/swarm/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/java/swarm/</guid>
       <description>
         
         
@@ -1977,10 +1977,10 @@ Removing network webapp_default
     
     <item>
       <title>Docs: Docker &amp; Netbeans</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/java/netbeans/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/java/netbeans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/java/netbeans/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/java/netbeans/</guid>
       <description>
         
         
@@ -2051,10 +2051,10 @@ Removing network webapp_default
     
     <item>
       <title>Docs: Docker and IntelliJ</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/java/intellij/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/java/intellij/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/java/intellij/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/java/intellij/</guid>
       <description>
         
         
@@ -2151,10 +2151,10 @@ ADD dockercon.war /opt/jboss/wildfly/standalone/deployments/
     
     <item>
       <title>Docs: Docker &amp; Eclipse</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/java/eclipse/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/java/eclipse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/java/eclipse/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/java/eclipse/</guid>
       <description>
         
         
@@ -2239,10 +2239,10 @@ ADD dockercon.war /opt/jboss/wildfly/standalone/deployments/
     
     <item>
       <title>Docs: Additional Resources</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/java/resources/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/java/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/java/resources/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/java/resources/</guid>
       <description>
         
         

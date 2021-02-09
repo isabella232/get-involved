@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> – GoLang</title>
-    <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/go/</link>
+    <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/go/</link>
     <description>Recent content in GoLang on </description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/go/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/go/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Event Checklist</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/go/checklists/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/go/checklists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/go/checklists/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/go/checklists/</guid>
       <description>
         
         
@@ -335,10 +335,10 @@ Note: The RSVP limits you set in Bevy do not translate to meetup. The best way t
     
     <item>
       <title>Docs: Agenda</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/go/agenda/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/go/agenda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/go/agenda/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/go/agenda/</guid>
       <description>
         
         
@@ -406,10 +406,10 @@ Note: The RSVP limits you set in Bevy do not translate to meetup. The best way t
     
     <item>
       <title>Docs: Prerequisite</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/go/prerequisite/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/go/prerequisite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/go/prerequisite/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/go/prerequisite/</guid>
       <description>
         
         
@@ -594,10 +594,10 @@ $ go version
     
     <item>
       <title>Docs: Basics of Docker</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/go/basics/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/go/basics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/go/basics/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/go/basics/</guid>
       <description>
         
         
@@ -718,10 +718,10 @@ ajeetraina@Ajeets-MacBook-Pro realtime-sensor-jetson %
     
     <item>
       <title>Docs: Building and Running a Docker Container</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/go/building/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/go/building/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/go/building/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/go/building/</guid>
       <description>
         
         
@@ -1007,10 +1007,10 @@ CMD [&amp;#34;/app/main&amp;#34;]
     
     <item>
       <title>Docs: Dockerize Your First Go Application</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/go/golangapp/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/go/golangapp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/go/golangapp/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/go/golangapp/</guid>
       <description>
         
         
@@ -1152,10 +1152,10 @@ CONTAINER ID        IMAGE               COMMAND                  CREATED        
     
     <item>
       <title>Docs: Working with Go Modules and Docker</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/go/gomodules/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/go/gomodules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/go/gomodules/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/go/gomodules/</guid>
       <description>
         
         
@@ -1301,10 +1301,10 @@ CMD [&amp;quot;./app”]
     
     <item>
       <title>Docs: Dockerize Multi-Container Go App Using Compose</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/go/compose/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/go/compose/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/go/compose/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/go/compose/</guid>
       <description>
         
         
@@ -1695,10 +1695,10 @@ A show of confidence raises the bar
     
     <item>
       <title>Docs: Addition Resources</title>
-      <link>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/go/resources/</link>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/go/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://docker-community-leaders.github.io/dockercommunity/docs/communityleaders/eventhandbooks/go/resources/</guid>
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/go/resources/</guid>
       <description>
         
         
