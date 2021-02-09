@@ -399,7 +399,7 @@ Docker Captains or Docker Community Leaders should contact: &lt;a href=&#34;mail
       <description>
         
         
-        &lt;p&gt;Community and participation are the backbone of Docker. Whether you&amp;rsquo;re technical or not, we welcome contributions from anyone around the world. This page is intended for people who want to contribute content to this Docker Community repository docs and who don&amp;rsquo;t use Git or GitHub often. The page is basically a quick guide to get going with a GitHub repository, using either Git on CLI or the GitHub web user interface (UI).&lt;/p&gt;
+        &lt;p&gt;Community and participation are the backbone of Docker. Whether you&amp;rsquo;re technical or not, we welcome contributions from anyone around the world. This page is intended for people who want to contribute content sections of this website and who don&amp;rsquo;t use Git or GitHub often. This will help you get going with a GitHub repository, using either Git on CLI or the GitHub web user interface (UI).&lt;/p&gt;
 &lt;h2 id=&#34;using-the-command-line&#34;&gt;Using the command line&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
