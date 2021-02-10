@@ -2072,7 +2072,7 @@ Removing network webapp_default
 &lt;li&gt;Build an Image&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;install-docker-plugin-in-idea&#34;&gt;Install Docker Plugin in IDEA&lt;/h2&gt;
-&lt;p&gt;Go to &amp;ldquo;&lt;code&gt;Preferences&lt;/code&gt;&amp;rdquo;, &amp;ldquo;&lt;code&gt;Plugins&lt;/code&gt;&amp;rdquo;, &amp;ldquo;&lt;code&gt;Install JetBrains plugin...&lt;/code&gt;&amp;rdquo;, search on &amp;ldquo;&lt;code&gt;docker&lt;/code&gt;&amp;rdquo; and click on &amp;ldquo;&lt;code&gt;Install&lt;/code&gt;&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Go to &amp;ldquo;&lt;code&gt;Preferences&lt;/code&gt;&amp;rdquo;, &amp;ldquo;&lt;code&gt;Plugins&lt;/code&gt;&amp;rdquo;, search on &amp;ldquo;&lt;code&gt;docker&lt;/code&gt;&amp;rdquo; and click on &amp;ldquo;&lt;code&gt;Install&lt;/code&gt;&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;../../../../images/logos/install_plugin.png&#34; alt=&#34;My Image&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Restart IntelliJ IDEA to active plugin.&lt;/p&gt;
 &lt;p&gt;Click on &amp;ldquo;&lt;code&gt;Create New Project&lt;/code&gt;&amp;rdquo;, select &amp;ldquo;&lt;code&gt;Java&lt;/code&gt;&amp;rdquo;, &amp;ldquo;&lt;code&gt;Web Application&lt;/code&gt;&amp;rdquo;&lt;/p&gt;
