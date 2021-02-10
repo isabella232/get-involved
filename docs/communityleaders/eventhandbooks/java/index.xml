@@ -2072,12 +2072,15 @@ Removing network webapp_default
 &lt;li&gt;Build an Image&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;install-docker-plugin-in-idea&#34;&gt;Install Docker Plugin in IDEA&lt;/h2&gt;
-&lt;p&gt;Go to &amp;ldquo;&lt;code&gt;Preferences&lt;/code&gt;&amp;rdquo;, &amp;ldquo;&lt;code&gt;Plugins&lt;/code&gt;&amp;rdquo;, search on &amp;ldquo;&lt;code&gt;docker&lt;/code&gt;&amp;rdquo; and click on &amp;ldquo;&lt;code&gt;Install&lt;/code&gt;&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Go to &amp;ldquo;&lt;code&gt;Preferences&lt;/code&gt;&amp;rdquo;, &amp;ldquo;&lt;code&gt;Plugins&lt;/code&gt;&amp;rdquo;,  search on &amp;ldquo;&lt;code&gt;docker&lt;/code&gt;&amp;rdquo; and click on &amp;ldquo;&lt;code&gt;Install&lt;/code&gt;&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;../../../../images/logos/install_plugin.png&#34; alt=&#34;My Image&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Restart IntelliJ IDEA to active plugin.&lt;/p&gt;
-&lt;p&gt;Click on &amp;ldquo;&lt;code&gt;Create New Project&lt;/code&gt;&amp;rdquo;, select &amp;ldquo;&lt;code&gt;Java&lt;/code&gt;&amp;rdquo;, &amp;ldquo;&lt;code&gt;Web Application&lt;/code&gt;&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;docker-intellij-create-java-project.png&#34; alt=&#34;My Image&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Click on &amp;ldquo;&lt;code&gt;Next&lt;/code&gt;&amp;rdquo;, give the project a name &amp;ldquo;&lt;code&gt;dockercon&lt;/code&gt;&amp;rdquo;, click on &amp;ldquo;&lt;code&gt;Finish&lt;/code&gt;&amp;rdquo;. This will open up the project in IntelliJ window.&lt;/p&gt;
+&lt;p&gt;Click on &amp;ldquo;&lt;code&gt;Create New Project&lt;/code&gt;&amp;rdquo;, select &amp;ldquo;&lt;code&gt;Java&lt;/code&gt;&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../../../images/logos/New_project_1.png&#34; alt=&#34;My Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Click on &amp;ldquo;&lt;code&gt;Next&lt;/code&gt;&amp;rdquo;,and select  &amp;ldquo;&lt;code&gt;Command Line App&lt;/code&gt;&amp;rdquo;
+&lt;img src=&#34;../../../../images/logos/new_project_2.png&#34; alt=&#34;My Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;give the project a name &amp;ldquo;&lt;code&gt;Dockertest&lt;/code&gt;&amp;rdquo;, click on &amp;ldquo;&lt;code&gt;Finish&lt;/code&gt;&amp;rdquo;. This will open up the project in IntelliJ window.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../../../images/logos/new_project_3.png&#34; alt=&#34;My Image&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Go to &amp;ldquo;&lt;code&gt;Preferences&lt;/code&gt;&amp;rdquo;, &amp;ldquo;&lt;code&gt;Clouds&lt;/code&gt;&amp;rdquo;, add a new deployment by clicking on &amp;ldquo;&lt;code&gt;+&lt;/code&gt;&amp;rdquo;. Click on &amp;ldquo;&lt;code&gt;Import credentials from Docker Machine&lt;/code&gt;&amp;rdquo;, &amp;ldquo;&lt;code&gt;Detect&lt;/code&gt;&amp;rdquo;, and see a successful connection. You may have to check the IP address of your Docker Machine. Find the IP address of your Docker Machine as &lt;code&gt;docker-machine ip &amp;lt;machine-name&amp;gt;&lt;/code&gt; and specify the correct IP address here.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;docker-intellij-cloud-connection.png&#34; alt=&#34;My Image&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Go to &amp;ldquo;&lt;code&gt;View&lt;/code&gt;&amp;rdquo;, &amp;ldquo;&lt;code&gt;Tool Windows&lt;/code&gt;&amp;rdquo;, &amp;ldquo;&lt;code&gt;Docker Tooling Window&lt;/code&gt;&amp;rdquo;. Click on &amp;ldquo;&lt;code&gt;Connect&lt;/code&gt;&amp;rdquo;&amp;rdquo; to connect with Docker Machine. Make sure Docker Machine is running.&lt;/p&gt;
@@ -2086,7 +2089,7 @@ Removing network webapp_default
 &lt;h2 id=&#34;pull-an-image&#34;&gt;Pull an Image&lt;/h2&gt;
 &lt;p&gt;Select top-level node with the name &amp;ldquo;&lt;code&gt;Docker&lt;/code&gt;&amp;rdquo;, click on &amp;ldquo;&lt;code&gt;Pull image&lt;/code&gt;&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;docker-intellij-pull-image.png&#34; alt=&#34;My Image&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Type an image name, such as &lt;code&gt;arungupta/couchbase&lt;/code&gt;, and &amp;ldquo;&lt;code&gt;OK&lt;/code&gt;&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Type an image name, such as &lt;code&gt;wordpress&lt;/code&gt;, and &amp;ldquo;&lt;code&gt;OK&lt;/code&gt;&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;docker-intellij-repository-name.png&#34; alt=&#34;My Image&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Expand &amp;ldquo;&lt;code&gt;Containers&lt;/code&gt;&amp;rdquo; and &amp;ldquo;&lt;code&gt;Images&lt;/code&gt;&amp;rdquo; to see existing running containers and images.&lt;/p&gt;
 &lt;p&gt;The specified image is now downloaded and shown as well.&lt;/p&gt;

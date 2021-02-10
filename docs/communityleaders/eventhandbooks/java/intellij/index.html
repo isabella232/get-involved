@@ -2171,12 +2171,15 @@ if (!doNotTrack) {
 <li>Build an Image</li>
 </ul>
 <h2 id="install-docker-plugin-in-idea">Install Docker Plugin in IDEA</h2>
-<p>Go to &ldquo;<code>Preferences</code>&rdquo;, &ldquo;<code>Plugins</code>&rdquo;, search on &ldquo;<code>docker</code>&rdquo; and click on &ldquo;<code>Install</code>&rdquo;</p>
+<p>Go to &ldquo;<code>Preferences</code>&rdquo;, &ldquo;<code>Plugins</code>&rdquo;,  search on &ldquo;<code>docker</code>&rdquo; and click on &ldquo;<code>Install</code>&rdquo;</p>
 <p><img src="../../../../images/logos/install_plugin.png" alt="My Image"></p>
 <p>Restart IntelliJ IDEA to active plugin.</p>
-<p>Click on &ldquo;<code>Create New Project</code>&rdquo;, select &ldquo;<code>Java</code>&rdquo;, &ldquo;<code>Web Application</code>&rdquo;</p>
-<p><img src="docker-intellij-create-java-project.png" alt="My Image"></p>
-<p>Click on &ldquo;<code>Next</code>&rdquo;, give the project a name &ldquo;<code>dockercon</code>&rdquo;, click on &ldquo;<code>Finish</code>&rdquo;. This will open up the project in IntelliJ window.</p>
+<p>Click on &ldquo;<code>Create New Project</code>&rdquo;, select &ldquo;<code>Java</code>&rdquo;</p>
+<p><img src="../../../../images/logos/New_project_1.png" alt="My Image"></p>
+<p>Click on &ldquo;<code>Next</code>&rdquo;,and select  &ldquo;<code>Command Line App</code>&rdquo;
+<img src="../../../../images/logos/new_project_2.png" alt="My Image"></p>
+<p>give the project a name &ldquo;<code>Dockertest</code>&rdquo;, click on &ldquo;<code>Finish</code>&rdquo;. This will open up the project in IntelliJ window.</p>
+<p><img src="../../../../images/logos/new_project_3.png" alt="My Image"></p>
 <p>Go to &ldquo;<code>Preferences</code>&rdquo;, &ldquo;<code>Clouds</code>&rdquo;, add a new deployment by clicking on &ldquo;<code>+</code>&rdquo;. Click on &ldquo;<code>Import credentials from Docker Machine</code>&rdquo;, &ldquo;<code>Detect</code>&rdquo;, and see a successful connection. You may have to check the IP address of your Docker Machine. Find the IP address of your Docker Machine as <code>docker-machine ip &lt;machine-name&gt;</code> and specify the correct IP address here.</p>
 <p><img src="docker-intellij-cloud-connection.png" alt="My Image"></p>
 <p>Go to &ldquo;<code>View</code>&rdquo;, &ldquo;<code>Tool Windows</code>&rdquo;, &ldquo;<code>Docker Tooling Window</code>&rdquo;. Click on &ldquo;<code>Connect</code>&rdquo;&rdquo; to connect with Docker Machine. Make sure Docker Machine is running.</p>
@@ -2185,7 +2188,7 @@ if (!doNotTrack) {
 <h2 id="pull-an-image">Pull an Image</h2>
 <p>Select top-level node with the name &ldquo;<code>Docker</code>&rdquo;, click on &ldquo;<code>Pull image</code>&rdquo;</p>
 <p><img src="docker-intellij-pull-image.png" alt="My Image"></p>
-<p>Type an image name, such as <code>arungupta/couchbase</code>, and &ldquo;<code>OK</code>&rdquo;</p>
+<p>Type an image name, such as <code>wordpress</code>, and &ldquo;<code>OK</code>&rdquo;</p>
 <p><img src="docker-intellij-repository-name.png" alt="My Image"></p>
 <p>Expand &ldquo;<code>Containers</code>&rdquo; and &ldquo;<code>Images</code>&rdquo; to see existing running containers and images.</p>
 <p>The specified image is now downloaded and shown as well.</p>
@@ -2480,7 +2483,7 @@ ADD dockercon.war /opt/jboss/wildfly/standalone/deployments/
 		<br />
 	
 	
-	<div class="text-muted mt-5 pt-3 border-top">Last modified 02.02.10102: <a  href="https://github.com/docker/get-involved/commit/399bfa28f877d687306a64f8b36f80b72216bcbd">Update _index.md (399bfa2)</a>
+	<div class="text-muted mt-5 pt-3 border-top">Last modified 02.02.10102: <a  href="https://github.com/docker/get-involved/commit/79e8e1122dc38f5d9805fadefac39e5b78a90cde">Merge pull request #9 from Gajanana/patch-3 (79e8e11)</a>
 </div>
 </div>
 
