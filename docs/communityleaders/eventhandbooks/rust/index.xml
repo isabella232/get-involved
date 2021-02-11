@@ -14,30 +14,6 @@
     
     
     <item>
-      <title>Docs: Prerequisite</title>
-      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/rust/prerequisite/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/rust/prerequisite/</guid>
-      <description>
-        
-        
-        &lt;p&gt;It looks like you’re running macOS, Linux, or another Unix-like OS. To download Rustup and install Rust, run the following in your terminal, then follow the on-screen instructions. See &amp;ldquo;&lt;a href=&#34;https://forge.rust-lang.org/infra/other-installation-methods.html&#34;&gt;Other Installation Methods&lt;/a&gt;&amp;rdquo; if you are on Windows.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;curl --proto &#39;=https&#39; --tlsv1.2 -sSf https://sh.rustup.rs | sh
-
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Get the latest version of Rust by running rustup update.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;rustup update
-
-&lt;/code&gt;&lt;/pre&gt;&lt;h1 id=&#34;rust-analyzer&#34;&gt;Rust Analyzer&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer&#34;&gt;VS Code MarketPlace&lt;/a&gt; &lt;br&gt;
-Bringing a great IDE experience to the Rust programming language.
-&lt;a href=&#34;https://rust-analyzer.github.io/manual.html#installation&#34;&gt;https://rust-analyzer.github.io/manual.html#installation&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;create-world-famous-hello-world-rust-application&#34;&gt;Create world famous &amp;ldquo;Hello World!&amp;rdquo; Rust Application&lt;/h1&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Docs: Your Event Checklist</title>
       <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/rust/checklists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -353,6 +329,30 @@ Note: The RSVP limits you set in Bevy do not translate to meetup. The best way t
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Prerequisite</title>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/rust/prerequisite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/rust/prerequisite/</guid>
+      <description>
+        
+        
+        &lt;p&gt;It looks like you’re running macOS, Linux, or another Unix-like OS. To download Rustup and install Rust, run the following in your terminal, then follow the on-screen instructions. See &amp;ldquo;&lt;a href=&#34;https://forge.rust-lang.org/infra/other-installation-methods.html&#34;&gt;Other Installation Methods&lt;/a&gt;&amp;rdquo; if you are on Windows.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;curl --proto &#39;=https&#39; --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Get the latest version of Rust by running rustup update.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;rustup update
+
+&lt;/code&gt;&lt;/pre&gt;&lt;h1 id=&#34;rust-analyzer&#34;&gt;Rust Analyzer&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer&#34;&gt;VS Code MarketPlace&lt;/a&gt; &lt;br&gt;
+Bringing a great IDE experience to the Rust programming language.
+&lt;a href=&#34;https://rust-analyzer.github.io/manual.html#installation&#34;&gt;https://rust-analyzer.github.io/manual.html#installation&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;create-world-famous-hello-world-rust-application&#34;&gt;Create world famous &amp;ldquo;Hello World!&amp;rdquo; Rust Application&lt;/h1&gt;
 
       </description>
     </item>
