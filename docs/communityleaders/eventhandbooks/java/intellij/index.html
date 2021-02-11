@@ -2205,16 +2205,18 @@ if (!doNotTrack) {
 <img src="../../../../images/logos/new_project_2.png" alt="My Image"></p>
 <p>give the project a name &ldquo;<code>Dockertest</code>&rdquo;, click on &ldquo;<code>Finish</code>&rdquo;. This will open up the project in IntelliJ window.</p>
 <p><img src="../../../../images/logos/new_project_3.png" alt="My Image"></p>
-<p>Go to &ldquo;<code>Preferences</code>&rdquo;, &ldquo;<code>Clouds</code>&rdquo;, add a new deployment by clicking on &ldquo;<code>+</code>&rdquo;. Click on &ldquo;<code>Import credentials from Docker Machine</code>&rdquo;, &ldquo;<code>Detect</code>&rdquo;, and see a successful connection. You may have to check the IP address of your Docker Machine. Find the IP address of your Docker Machine as <code>docker-machine ip &lt;machine-name&gt;</code> and specify the correct IP address here.</p>
+<p>Go to &ldquo;<code>Preferences</code>&rdquo;, &ldquo;<code>Docker</code>&rdquo;, add a new deployment by clicking on &ldquo;<code>+</code>&rdquo;.</p>
+<p>If you want to use remote docker machine Click on &ldquo;<code>Import credentials from Docker Machine</code>&rdquo;, &ldquo;<code>Detect</code>&rdquo;, and see a successful connection. You may have to check the IP address of your Docker Machine. Find the IP address of your Docker Machine as <code>docker-machine ip &lt;machine-name&gt;</code> and specify the correct IP address here.</p>
 <p><img src="docker-intellij-cloud-connection.png" alt="My Image"></p>
-<p>Go to &ldquo;<code>View</code>&rdquo;, &ldquo;<code>Tool Windows</code>&rdquo;, &ldquo;<code>Docker Tooling Window</code>&rdquo;. Click on &ldquo;<code>Connect</code>&rdquo;&rdquo; to connect with Docker Machine. Make sure Docker Machine is running.</p>
-<p>WARNING: IDEA does not work with &ldquo;<code>Docker for Mac</code>&rdquo; at this time. (ADD BUG #)</p>
-<p><img src="docker-intellij-tool-window.png" alt="My Image"></p>
+<p>If you have installed docker in your Mac .Please use &ldquo;<code>Docker for Mac</code>&rdquo;
+<img src="../../../../images/logos/connect_to_docker.png" alt="My Image"></p>
+<p>Go to &ldquo;<code>View</code>&rdquo;, &ldquo;<code>Tool Windows</code>&rdquo;, &ldquo;<code>Services</code>&rdquo;. Click on &ldquo;<code>Connect</code>&rdquo; to connect with Docker. Make sure Docker is running</p>
+<p><img src="../../../../images/logos/enable_services.png" alt="My Image"></p>
 <h2 id="pull-an-image">Pull an Image</h2>
-<p>Select top-level node with the name &ldquo;<code>Docker</code>&rdquo;, click on &ldquo;<code>Pull image</code>&rdquo;</p>
-<p><img src="docker-intellij-pull-image.png" alt="My Image"></p>
+<p>Select top-level node with the name &ldquo;<code>Java Example</code>&rdquo;, click on &ldquo;<code>Pull image</code>&rdquo;</p>
+<p><img src="../../../../images/logos/pull_image_wp.png" alt="My Image"></p>
 <p>Type an image name, such as <code>wordpress</code>, and &ldquo;<code>OK</code>&rdquo;</p>
-<p><img src="docker-intellij-repository-name.png" alt="My Image"></p>
+<p><img src="../../../../images/logos/pull_image_progress_wp.png" alt="My Image"></p>
 <p>Expand &ldquo;<code>Containers</code>&rdquo; and &ldquo;<code>Images</code>&rdquo; to see existing running containers and images.</p>
 <p>The specified image is now downloaded and shown as well.</p>
 <h2 id="run-a-container">Run a Container</h2>
@@ -2510,7 +2512,7 @@ ADD dockercon.war /opt/jboss/wildfly/standalone/deployments/
 		<br />
 	
 	
-	<div class="text-muted mt-5 pt-3 border-top">Last modified 02.02.11112: <a  href="https://github.com/docker/get-involved/commit/8b304fc4d163533cf1163600d12e571692d916f8">Update _index.md (8b304fc)</a>
+	<div class="text-muted mt-5 pt-3 border-top">Last modified 02.02.11112: <a  href="https://github.com/docker/get-involved/commit/eb08d5bd53dabf3bfaba1362efd4787708fc6b63">Merge pull request #11 from Gajanana/patch-5 (eb08d5b)</a>
 </div>
 </div>
 
