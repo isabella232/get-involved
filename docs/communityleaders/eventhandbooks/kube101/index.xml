@@ -2017,7 +2017,7 @@ web-kc4r9   1/1 	Running         	0      	24s
     </item>
     
     <item>
-      <title>Docs: Understand Kubernetes Scheduling</title>
+      <title>Docs: Getting Started with Kubernetes Scheduling</title>
       <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/scheduler101/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
