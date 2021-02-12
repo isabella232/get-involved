@@ -29,17 +29,6 @@
 <meta name="twitter:description" content="Pre-requisite"/>
 
 
-<script type="application/javascript">
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-	ga('create', 'UA-00000000-0', 'auto');
-	
-	ga('send', 'pageview');
-}
-</script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
-
 
 
 
@@ -2356,70 +2345,8 @@ if (!doNotTrack) {
 </div>
 
 	
-		<style>
-  .feedback--answer {
-    display: inline-block;
-  }
-  .feedback--answer-no {
-    margin-left: 1em;
-  }
-  .feedback--response {
-    display: none;
-    margin-top: 1em;
-  }
-  .feedback--response__visible {
-    display: block;
-  }
-</style>
-<div class="d-print-none">
-<h2 class="feedback--title">Feedback</h2>
-<p class="feedback--question">Was this page helpful?</p>
-<button class="feedback--answer feedback--answer-yes">Yes</button>
-<button class="feedback--answer feedback--answer-no">No</button>
-<p class="feedback--response feedback--response-yes">
-  Glad to hear it! Please <a href="https://github.com/docker-community-leaders/docs/issues/new/?title=Page%20is%20helpful&labels=kind%2Fmeta">tell us how we can improve</a>.
-</p>
-<p class="feedback--response feedback--response-no">
-  Sorry to hear that. Please <a href="https://github.com/docker-community-leaders/docs/issues/new/?title=Page%20needs%20improvement&labels=kind%2Fmeta">tell us how we can improve</a>.
-</p>
-</div>
-<script>
-  const yesButton = document.querySelector('.feedback--answer-yes');
-  const noButton = document.querySelector('.feedback--answer-no');
-  const yesResponse = document.querySelector('.feedback--response-yes');
-  const noResponse = document.querySelector('.feedback--response-no');
-  const disableButtons = () => {
-    yesButton.disabled = true;
-    noButton.disabled = true;
-  };
-  const sendFeedback = (value) => {
-    if (typeof ga !== 'function') return;
-    const args = {
-      command: 'send',
-      hitType: 'event',
-      category: 'Helpful',
-      action: 'click',
-      label: window.location.pathname,
-      value: value
-    };
-    ga(args.command, args.hitType, args.category, args.action, args.label, args.value);
-  };
-  yesButton.addEventListener('click', () => {
-    yesResponse.classList.add('feedback--response__visible');
-    disableButtons();
-    sendFeedback(1);
-  });
-  noButton.addEventListener('click', () => {
-    noResponse.classList.add('feedback--response__visible');
-    disableButtons();
-    sendFeedback(0);
-  });
-</script>
-
-		<br />
 	
-	
-	<div class="text-muted mt-5 pt-3 border-top">Last modified 02.02.12122: <a  href="https://github.com/docker/get-involved/commit/ddac1087c74803c650b9dd3b351750baaae5dd81">Update _index.md (ddac108)</a>
+	<div class="text-muted mt-5 pt-3 border-top">Last modified 02.02.12122: <a  href="https://github.com/docker/get-involved/commit/8dd53e437af2c103023bb1a6db461741debe3629">Update config.toml (8dd53e4)</a>
 </div>
 </div>
 
