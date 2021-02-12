@@ -380,11 +380,11 @@ Note: The RSVP limits you set in Bevy do not translate to meetup. The best way t
 &lt;td&gt;1:00 PM to 2:00 PM&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;../daemonset101&#34;&gt;How to deploy your first daemonset&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../daemonset101/&#34;&gt;How to deploy your first daemonset&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;2:00 PM to 2:30 PM&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;../replicaset101&#34;&gt;How to deploy your first nginx replicaset&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../replicaset101/&#34;&gt;How to deploy your first nginx replicaset&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;2:30 PM to 3:30 PM&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -396,7 +396,7 @@ Note: The RSVP limits you set in Bevy do not translate to meetup. The best way t
 &lt;td&gt;3:45 PM to 4:45 PM&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;../Ingress101&#34;&gt;How to deploy your first Ingress deployment&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../Ingress101/&#34;&gt;How to deploy your first Ingress deployment&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;4:45 PM to 5:45 PM&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
