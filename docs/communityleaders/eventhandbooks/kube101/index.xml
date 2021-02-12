@@ -421,10 +421,10 @@ Note: The RSVP limits you set in Bevy do not translate to meetup. The best way t
         &lt;p&gt;Kubernetes (a.k.a K8s) is an open-source container-orchestration system which manages the containerised applications and takes care of the automated deployment, storage, scaling, scheduling, load balancing, updates(rolling-updates), self-healing, batch-execution and monitoring of containers across clusters of hosts.&lt;br&gt;&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;Kubernetes was originally developed by Google labs and later donated to Cloud Native Computing Foundation (CNCF).&amp;nbsp;&lt;/p&gt;
 &lt;h2 id=&#34;why-kubernetes&#34;&gt;Why Kubernetes?&lt;/h2&gt;
-&lt;p&gt;There are multiple Container-Orchestration systems available today but Kubernetes has become more popular as it is cost efficient and provides a lot of options to customize deployments and has support for many different vendors. It is supported on all major public cloud service providers like GCP, Azure, AWS, Oracle Cloud, Digital Ocean etc. &lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;There are multiple container orchestration systems available today but Kubernetes has become more popular as it is cost efficient and provides a lot of options to customize deployments and has support for many different vendors. It is supported on all major public cloud service providers like GCP, Azure, AWS, Oracle Cloud, Digital Ocean etc.&lt;/p&gt;
 &lt;h2 id=&#34;kubernetes-architecture&#34;&gt;Kubernetes Architecture&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;image1.png&#34; alt=&#34;My Image&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Kubernetes follows the master/slave architecture. So, we have the master nodes and the worker nodes. The master nodes manage the worker nodes and together they form a cluster. A cluster is a set of machines called nodes. A Kubernetes cluster has at least one master node and one worker node. However, there can be multiple clusters too. &lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;Kubernetes follows the master/slave architecture. So, we have the master nodes and the worker nodes. The master nodes manage the worker nodes and together they form a cluster. A cluster is a set of machines called nodes. A Kubernetes cluster has at least one master node and one worker node. However, there can be multiple clusters too.&lt;/p&gt;
 &lt;h2 id=&#34;kubernetes-master-node-control-plane&#34;&gt;Kubernetes Master Node/ Control Plane&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;image2.png&#34; alt=&#34;My Image&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Kubernetes Master Node/Control Plane is the controlling unit of the cluster which manages the cluster, monitors the Nodes and Pods in the cluster, and when a node fails, it moves the workload of the failed node to another working node.&lt;/p&gt;
@@ -436,7 +436,7 @@ Note: The RSVP limits you set in Bevy do not translate to meetup. The best way t
 &lt;h2 id=&#34;controller-manager&#34;&gt;Controller Manager&lt;/h2&gt;
 &lt;p&gt;The Controller Manager is a component on the Master Node  that runs the Controllers. It  runs the watch-loops continuously to drive the actual cluster state towards the desired cluster state. It runs the Node/Replication/Endpoints/Service account and token Controllers and in case of the Cloud Platforms, it runs the Node/Route/Service/Volume Controllers.&lt;/p&gt;
 &lt;h2 id=&#34;etcd&#34;&gt;etcd&lt;/h2&gt;
-&lt;p&gt;etcd is the open-source persistent, lightweight, distributed key-value database developed by CoreOS, which communicates only with the API Server. etcd can be configured externally or inside the Master Node.&lt;/p&gt;
+&lt;p&gt;etcd is the open-source persistent, lightweight, distributed key-value database developed by CoreOS, which communicates only with the API Server. etcd can be configured externally or inside the master node.&lt;/p&gt;
 &lt;h2 id=&#34;worker-node&#34;&gt;Worker Node&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;image3.png&#34; alt=&#34;My Image&#34;&gt;&lt;/p&gt;
 &lt;p&gt;A Worker Node can have one or more Pods, and a Pod can have one or more Containers, and a Cluster can have multiple Worker Nodes as well as Master nodes. Node components (Kube-proxy, kubelet, Container runtime) run on every Worker Node, maintaining the running Pods and providing the Kubernetes run-time environment.&lt;/p&gt;
