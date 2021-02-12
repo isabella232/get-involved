@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> – Deploying Your First Nginx Deployment</title>
+    <title> – How to deploy Your First Nginx Deployment</title>
     <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/deployment101/</link>
-    <description>Recent content in Deploying Your First Nginx Deployment on </description>
+    <description>Recent content in How to deploy Your First Nginx Deployment on </description>
     <generator>Hugo -- gohugo.io</generator>
     
 	  <atom:link href="https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/deployment101/index.xml" rel="self" type="application/rss+xml" />
