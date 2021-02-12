@@ -2207,8 +2207,10 @@
 <h2 id="why-kubernetes">Why Kubernetes?</h2>
 <p>There are multiple Container-Orchestration systems available today but Kubernetes has become more popular as it is cost efficient and provides a lot of options to customize deployments and has support for many different vendors. It is supported on all major public cloud service providers like GCP, Azure, AWS, Oracle Cloud, Digital Ocean etc. </p></p>
 <h2 id="kubernetes-architecture">Kubernetes Architecture</h2>
+<p><img src="image1.png" alt="My Image"></p>
 <p>Kubernetes follows the master/slave architecture. So, we have the master nodes and the worker nodes. The master nodes manage the worker nodes and together they form a cluster. A cluster is a set of machines called nodes. A Kubernetes cluster has at least one master node and one worker node. However, there can be multiple clusters too. </p></p>
 <h2 id="kubernetes-master-node-control-plane">Kubernetes Master Node/ Control Plane</h2>
+<p><img src="image2.png" alt="My Image"></p>
 <p>Kubernetes Master Node/Control Plane is the controlling unit of the cluster which manages the cluster, monitors the Nodes and Pods in the cluster, and when a node fails, it moves the workload of the failed node to another working node.</p>
 <p>The various components of the Kubernetes Master Node:</p>
 <h2 id="api-server">API Server</h2>
@@ -2220,7 +2222,9 @@
 <h2 id="etcd">etcd</h2>
 <p>etcd is the open-source persistent, lightweight, distributed key-value database developed by CoreOS, which communicates only with the API Server. etcd can be configured externally or inside the Master Node.</p>
 <h2 id="worker-node">Worker Node</h2>
+<p><img src="image3.png" alt="My Image"></p>
 <p>A Worker Node can have one or more Pods, and a Pod can have one or more Containers, and a Cluster can have multiple Worker Nodes as well as Master nodes. Node components (Kube-proxy, kubelet, Container runtime) run on every Worker Node, maintaining the running Pods and providing the Kubernetes run-time environment.</p>
+<p><img src="image4.png" alt="My Image"></p>
 <p>The various components of the Kubernetes Worker Node:</p>
 <h2 id="kubelet">Kubelet</h2>
 <p>kubelet is an agent running on each Worker Node which monitors the state of a Pod (based on the specifications from PodSpecs), and if not in the desired state, the Pod re-deploys to the same node or other healthy nodes.</p>
@@ -2406,7 +2410,7 @@
 
 	
 	
-	<div class="text-muted mt-5 pt-3 border-top">Last modified 02.02.12122: <a  href="https://github.com/docker/get-involved/commit/52f407f025a07a84ef43ed96abdda4bd29b6c650">Add files via upload (52f407f)</a>
+	<div class="text-muted mt-5 pt-3 border-top">Last modified 02.02.12122: <a  href="https://github.com/docker/get-involved/commit/bb6fa795265dea46b28a2208570f2b2fb87013d4">Update _index.md (bb6fa79)</a>
 </div>
 </div>
 

@@ -423,8 +423,10 @@ Note: The RSVP limits you set in Bevy do not translate to meetup. The best way t
 &lt;h2 id=&#34;why-kubernetes&#34;&gt;Why Kubernetes?&lt;/h2&gt;
 &lt;p&gt;There are multiple Container-Orchestration systems available today but Kubernetes has become more popular as it is cost efficient and provides a lot of options to customize deployments and has support for many different vendors. It is supported on all major public cloud service providers like GCP, Azure, AWS, Oracle Cloud, Digital Ocean etc. &lt;/p&gt;&lt;/p&gt;
 &lt;h2 id=&#34;kubernetes-architecture&#34;&gt;Kubernetes Architecture&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;image1.png&#34; alt=&#34;My Image&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Kubernetes follows the master/slave architecture. So, we have the master nodes and the worker nodes. The master nodes manage the worker nodes and together they form a cluster. A cluster is a set of machines called nodes. A Kubernetes cluster has at least one master node and one worker node. However, there can be multiple clusters too. &lt;/p&gt;&lt;/p&gt;
 &lt;h2 id=&#34;kubernetes-master-node-control-plane&#34;&gt;Kubernetes Master Node/ Control Plane&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;image2.png&#34; alt=&#34;My Image&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Kubernetes Master Node/Control Plane is the controlling unit of the cluster which manages the cluster, monitors the Nodes and Pods in the cluster, and when a node fails, it moves the workload of the failed node to another working node.&lt;/p&gt;
 &lt;p&gt;The various components of the Kubernetes Master Node:&lt;/p&gt;
 &lt;h2 id=&#34;api-server&#34;&gt;API Server&lt;/h2&gt;
@@ -436,7 +438,9 @@ Note: The RSVP limits you set in Bevy do not translate to meetup. The best way t
 &lt;h2 id=&#34;etcd&#34;&gt;etcd&lt;/h2&gt;
 &lt;p&gt;etcd is the open-source persistent, lightweight, distributed key-value database developed by CoreOS, which communicates only with the API Server. etcd can be configured externally or inside the Master Node.&lt;/p&gt;
 &lt;h2 id=&#34;worker-node&#34;&gt;Worker Node&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;image3.png&#34; alt=&#34;My Image&#34;&gt;&lt;/p&gt;
 &lt;p&gt;A Worker Node can have one or more Pods, and a Pod can have one or more Containers, and a Cluster can have multiple Worker Nodes as well as Master nodes. Node components (Kube-proxy, kubelet, Container runtime) run on every Worker Node, maintaining the running Pods and providing the Kubernetes run-time environment.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;image4.png&#34; alt=&#34;My Image&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The various components of the Kubernetes Worker Node:&lt;/p&gt;
 &lt;h2 id=&#34;kubelet&#34;&gt;Kubelet&lt;/h2&gt;
 &lt;p&gt;kubelet is an agent running on each Worker Node which monitors the state of a Pod (based on the specifications from PodSpecs), and if not in the desired state, the Pod re-deploys to the same node or other healthy nodes.&lt;/p&gt;
