@@ -356,8 +356,7 @@ Note: The RSVP limits you set in Bevy do not translate to meetup. The best way t
       <description>
         
         
-        &lt;h1 id=&#34;deploying-your-first-nginx-pod&#34;&gt;Deploying Your First Nginx Pod&lt;/h1&gt;
-&lt;h2 id=&#34;what-are-k8s-pods&#34;&gt;What are K8s Pods?&lt;/h2&gt;
+        &lt;h2 id=&#34;what-are-k8s-pods&#34;&gt;What are K8s Pods?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Kubernetes pods are the foundational unit for all higher Kubernetes objects.&lt;/li&gt;
 &lt;li&gt;A pod hosts one or more containers.&lt;/li&gt;
