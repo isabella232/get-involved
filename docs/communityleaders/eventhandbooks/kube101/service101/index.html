@@ -909,6 +909,31 @@
 
 <ul class="td-sidebar-nav__section pr-md-3">
   <li class="td-sidebar-nav__section-title">
+    <a  href="../../../../../docs/communityleaders/eventhandbooks/kube101/architecture/" class="align-left pl-0 pr-2 collapsed td-sidebar-link td-sidebar-link__section">Quick Overview of Kubernetes Architecture</a>
+  </li>
+  <ul>
+    <li class="collapse " id="docscommunityleaderseventhandbookskube101architecture">
+      
+      
+      
+    </li>
+  </ul>
+</ul>
+
+        
+      
+      
+      
+        
+          
+
+
+
+
+
+
+<ul class="td-sidebar-nav__section pr-md-3">
+  <li class="td-sidebar-nav__section-title">
     <a  href="../../../../../docs/communityleaders/eventhandbooks/kube101/pods101/" class="align-left pl-0 pr-2 collapsed td-sidebar-link td-sidebar-link__section">Deploying Your First Nginx Pod</a>
   </li>
   <ul>
@@ -2095,6 +2120,7 @@
   <ul>
     <li>
       <ul>
+        <li><a href="#enter-services">Enter Services</a></li>
         <li><a href="#deploying--a-kubernetes-service">Deploying  a Kubernetes Service</a></li>
         <li><a href="#accessing-the-service">Accessing the Service</a></li>
         <li><a href="#exposing-the-service">Exposing the Service</a></li>
@@ -2178,7 +2204,7 @@
 <p>Say, you have pods running nginx in a flat, cluster wide, address space. In theory, you could talk to these pods directly, but what happens when a node dies? The pods die with it, and the Deployment will create new ones, with different IPs. This is the problem a Service solves.</p>
 <p>Kubernetes Pods are mortal. They are born and when they die, they are not resurrected. If you use a Deployment to run your app, it can create and destroy Pods dynamically. Each Pod gets its own IP address, however in a Deployment, the set of Pods running in one moment in time could be different from the set of Pods running that application a moment later.</p>
 <p>This leads to a problem: if some set of Pods (call them “backends”) provides functionality to other Pods (call them “frontends”) inside your cluster, how do the frontends find out and keep track of which IP address to connect to, so that the frontend can use the backend part of the workload?</p>
-<p>Enter Services</p>
+<h2 id="enter-services">Enter Services</h2>
 <p>A Kubernetes Service is an abstraction which defines a logical set of Pods running somewhere in your cluster, that all provide the same functionality. When created, each Service is assigned a unique IP address (also called clusterIP). This address is tied to the lifespan of the Service, and will not change while the Service is alive. Pods can be configured to talk to the Service, and know that communication to the Service will be automatically load-balanced out to some pod that is a member of the Service.</p>
 <h2 id="deploying--a-kubernetes-service">Deploying  a Kubernetes Service</h2>
 <p>Like all other Kubernetes objects, a Service can be defined using a YAML or JSON file that contains the necessary definitions (they can also be created using just the command line, but this is not the recommended practice). Let’s create a NodeJS service definition. It may look like the following:</p>
@@ -2591,12 +2617,14 @@ spec:
         
             
         
+            
+        
     
 </div>
 
 	
 	
-	<div class="text-muted mt-5 pt-3 border-top">Last modified 02.02.12122: <a  href="https://github.com/docker/get-involved/commit/f4cae889654f3562903655eda1cec72683da4377">Update _index.md (f4cae88)</a>
+	<div class="text-muted mt-5 pt-3 border-top">Last modified 02.02.12122: <a  href="https://github.com/docker/get-involved/commit/235985d137424b45817d36c3f1ec7eacc00aa918">Create _index.md (235985d)</a>
 </div>
 </div>
 

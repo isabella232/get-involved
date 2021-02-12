@@ -410,6 +410,45 @@ Note: The RSVP limits you set in Bevy do not translate to meetup. The best way t
     </item>
     
     <item>
+      <title>Docs: Overview of Kubernetes Architecture</title>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/architecture/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Kubernetes (a.k.a K8s) is an open-source container-orchestration system which manages the containerised applications and takes care of the automated deployment, storage, scaling, scheduling, load balancing, updates(rolling-updates), self-healing, batch-execution and monitoring of containers across clusters of hosts.&lt;br&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;Kubernetes was originally developed by Google labs and later donated to Cloud Native Computing Foundation (CNCF).&amp;nbsp;&lt;/p&gt;
+&lt;h2 id=&#34;why-kubernetes&#34;&gt;Why Kubernetes?&lt;/h2&gt;
+&lt;p&gt;There are multiple Container-Orchestration systems available today but Kubernetes has become more popular as it is cost efficient and provides a lot of options to customize deployments and has support for many different vendors. It is supported on all major public cloud service providers like GCP, Azure, AWS, Oracle Cloud, Digital Ocean etc. &lt;/p&gt;&lt;/p&gt;
+&lt;h2 id=&#34;kubernetes-architecture&#34;&gt;Kubernetes Architecture&lt;/h2&gt;
+&lt;p&gt;Kubernetes follows the master/slave architecture. So, we have the master nodes and the worker nodes. The master nodes manage the worker nodes and together they form a cluster. A cluster is a set of machines called nodes. A Kubernetes cluster has at least one master node and one worker node. However, there can be multiple clusters too. &lt;/p&gt;&lt;/p&gt;
+&lt;h2 id=&#34;kubernetes-master-node-control-plane&#34;&gt;Kubernetes Master Node/ Control Plane&lt;/h2&gt;
+&lt;p&gt;Kubernetes Master Node/Control Plane is the controlling unit of the cluster which manages the cluster, monitors the Nodes and Pods in the cluster, and when a node fails, it moves the workload of the failed node to another working node.&lt;/p&gt;
+&lt;p&gt;The various components of the Kubernetes Master Node:&lt;/p&gt;
+&lt;h2 id=&#34;api-server&#34;&gt;API Server&lt;/h2&gt;
+&lt;p&gt;The API Server is responsible for all communications (JSON over HTTP API). The Users, management devices, and Command line interfaces talk to the API Server to interact with the Kubernetes cluster. kubectl is the CLI tool used to interact with the Kubernetes API.&lt;/p&gt;
+&lt;h2 id=&#34;scheduler&#34;&gt;Scheduler&lt;/h2&gt;
+&lt;p&gt;The Scheduler schedules Pods across multiple nodes based on the information it receives from etcd, via the API Server.&lt;/p&gt;
+&lt;h2 id=&#34;controller-manager&#34;&gt;Controller Manager&lt;/h2&gt;
+&lt;p&gt;The Controller Manager is a component on the Master Node  that runs the Controllers. It  runs the watch-loops continuously to drive the actual cluster state towards the desired cluster state. It runs the Node/Replication/Endpoints/Service account and token Controllers and in case of the Cloud Platforms, it runs the Node/Route/Service/Volume Controllers.&lt;/p&gt;
+&lt;h2 id=&#34;etcd&#34;&gt;etcd&lt;/h2&gt;
+&lt;p&gt;etcd is the open-source persistent, lightweight, distributed key-value database developed by CoreOS, which communicates only with the API Server. etcd can be configured externally or inside the Master Node.&lt;/p&gt;
+&lt;h2 id=&#34;worker-node&#34;&gt;Worker Node&lt;/h2&gt;
+&lt;p&gt;A Worker Node can have one or more Pods, and a Pod can have one or more Containers, and a Cluster can have multiple Worker Nodes as well as Master nodes. Node components (Kube-proxy, kubelet, Container runtime) run on every Worker Node, maintaining the running Pods and providing the Kubernetes run-time environment.&lt;/p&gt;
+&lt;p&gt;The various components of the Kubernetes Worker Node:&lt;/p&gt;
+&lt;h2 id=&#34;kubelet&#34;&gt;Kubelet&lt;/h2&gt;
+&lt;p&gt;kubelet is an agent running on each Worker Node which monitors the state of a Pod (based on the specifications from PodSpecs), and if not in the desired state, the Pod re-deploys to the same node or other healthy nodes.&lt;/p&gt;
+&lt;h2 id=&#34;kube-proxy&#34;&gt;Kube-proxy&lt;/h2&gt;
+&lt;p&gt;The Kube-proxy is an implementation of a network proxy (exposes services to the outside world) and a load-balancer (acts as a daemon, which watches the API server on the Master Node for the addition and removal of services and endpoints).&lt;/p&gt;
+&lt;h2 id=&#34;container-runtime--docker&#34;&gt;Container Runtime / Docker&lt;/h2&gt;
+&lt;p&gt;Kubernetes does not have the capability to directly handle containers, so it requires a Container runtime. Kubernetes supports several container runtimes, such as Docker, Containerd, Cri-o etc.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Deploying Your First Nginx Pod</title>
       <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/kube101/pods101/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -908,7 +947,7 @@ Wed Jan  8 08:59:16 UTC 2020
 &lt;p&gt;Say, you have pods running nginx in a flat, cluster wide, address space. In theory, you could talk to these pods directly, but what happens when a node dies? The pods die with it, and the Deployment will create new ones, with different IPs. This is the problem a Service solves.&lt;/p&gt;
 &lt;p&gt;Kubernetes Pods are mortal. They are born and when they die, they are not resurrected. If you use a Deployment to run your app, it can create and destroy Pods dynamically. Each Pod gets its own IP address, however in a Deployment, the set of Pods running in one moment in time could be different from the set of Pods running that application a moment later.&lt;/p&gt;
 &lt;p&gt;This leads to a problem: if some set of Pods (call them “backends”) provides functionality to other Pods (call them “frontends”) inside your cluster, how do the frontends find out and keep track of which IP address to connect to, so that the frontend can use the backend part of the workload?&lt;/p&gt;
-&lt;p&gt;Enter Services&lt;/p&gt;
+&lt;h2 id=&#34;enter-services&#34;&gt;Enter Services&lt;/h2&gt;
 &lt;p&gt;A Kubernetes Service is an abstraction which defines a logical set of Pods running somewhere in your cluster, that all provide the same functionality. When created, each Service is assigned a unique IP address (also called clusterIP). This address is tied to the lifespan of the Service, and will not change while the Service is alive. Pods can be configured to talk to the Service, and know that communication to the Service will be automatically load-balanced out to some pod that is a member of the Service.&lt;/p&gt;
 &lt;h2 id=&#34;deploying--a-kubernetes-service&#34;&gt;Deploying  a Kubernetes Service&lt;/h2&gt;
 &lt;p&gt;Like all other Kubernetes objects, a Service can be defined using a YAML or JSON file that contains the necessary definitions (they can also be created using just the command line, but this is not the recommended practice). Let’s create a NodeJS service definition. It may look like the following:&lt;/p&gt;
