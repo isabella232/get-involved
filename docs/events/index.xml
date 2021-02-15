@@ -39,5 +39,21 @@
       </description>
     </item>
     
+    <item>
+      <title>Docs: Office Hours</title>
+      <link>https://docker.github.io/get-involved/docs/events/office-hours/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docker.github.io/get-involved/docs/events/office-hours/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Docker community organises a regular live pblic virtual office hours.
+Each 45 minutes session will focus on one Docker tools: Docker Compose, Docker Desktop, DevOps, Cloud and Docker Hub.&lt;/p&gt;
+&lt;p&gt;The sessions will be driven by questions from the community.&lt;/p&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>
