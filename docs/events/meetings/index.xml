@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> – Community Meetings</title>
+    <link>https://docker.github.io/get-involved/docs/events/meetings/</link>
+    <description>Recent content in Community Meetings on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="https://docker.github.io/get-involved/docs/events/meetings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>

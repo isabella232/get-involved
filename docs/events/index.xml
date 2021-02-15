@@ -55,5 +55,19 @@ Each 45 minutes session will focus on one Docker tools: Docker Compose, Docker D
       </description>
     </item>
     
+    <item>
+      <title>Docs: Community Meetings</title>
+      <link>https://docker.github.io/get-involved/docs/events/meetings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docker.github.io/get-involved/docs/events/meetings/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This page is a database of all the past, current happening and future planned community meetings.  It is intended to provide community activities, updates and targeted at SIGs.&lt;/p&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>
