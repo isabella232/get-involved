@@ -79,7 +79,31 @@ Each 45 minutes session will focus on one Docker tools: Docker Compose, Docker D
       <description>
         
         
-        
+        &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Chairs&lt;/th&gt;
+&lt;th&gt;Contact&lt;/th&gt;
+&lt;th&gt;Meetings&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Engine Maintainers Meeting&lt;/td&gt;
+&lt;td&gt;Sebastiaan&lt;/td&gt;
+&lt;td&gt;Slack&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Compose Specification Meeting&lt;/td&gt;
+&lt;td&gt;Chris Crone&lt;/td&gt;
+&lt;td&gt;Slack&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
       </description>
     </item>
     
