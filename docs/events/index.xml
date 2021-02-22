@@ -70,5 +70,18 @@ Each 45 minutes session will focus on one Docker tools: Docker Compose, Docker D
       </description>
     </item>
     
+    <item>
+      <title>Docs: Special Interest Groups</title>
+      <link>https://docker.github.io/get-involved/docs/events/sigs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docker.github.io/get-involved/docs/events/sigs/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
   </channel>
 </rss>
