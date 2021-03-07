@@ -13,5 +13,76 @@
       
     
     
+    <item>
+      <title>Docs: Agenda</title>
+      <link>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/docker201/change-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docker.github.io/get-involved/docs/communityleaders/eventhandbooks/docker201/change-me/</guid>
+      <description>
+        
+        
+        &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;th&gt;Timing&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Welcome&lt;/td&gt;
+&lt;td&gt;8:45 AM to 9:00 AM&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;../gettingstarted&#34;&gt;Getting Started with Docker Compose &lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;9:00 AM to 10:00 AM&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;../create-docker-compose/&#34;&gt;Create WordPress app using Docker Compose&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;10:00 AM to 11:00 AM&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Coffee/Tea Break&lt;/td&gt;
+&lt;td&gt;11:00 AM to 11:15 AM&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;../swarm/&#34;&gt;Getting Started with Docker Swarm - Part 1&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;11:15 AM to 12:45 PM&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lunch&lt;/td&gt;
+&lt;td&gt;12:45 PM to 1:45 PM&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;../swarm/&#34;&gt;Getting Started with Docker Swarm - Part 2&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;1:45 PM to 3:30 PM&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;../swarm-wordpress/&#34;&gt;Building WordPress application using Docker Swarm&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;3:30 PM to 4:00 PM&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;../networking&#34;&gt;Introduction to Docker Networking - Part 1&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;4:00 PM to 4:30 PM&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Coffee/Tea Break&lt;/td&gt;
+&lt;td&gt;4:00 PM to 4:30 PM&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;../networking/&#34;&gt;Introduction to Docker Networking - Part 2&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;4:45 PM to 5:45 PM&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Quiz/Prize/Certificate Distribution&lt;/td&gt;
+&lt;td&gt;5:45 PM to 6:00 PM&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>
